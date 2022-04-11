@@ -1,0 +1,151 @@
+/* NAVBAR */
+
+.navbar{
+  background-color: #F3E8C9;
+}
+
+.logo-btn{
+  border: 1px solid #F3E8C9;
+  padding:0px;
+  background-color: #F3E8C9;
+}
+
+.logo{
+  margin-left:35px;
+  border: 3.5px solid white;
+  border-radius: 50px;
+}
+
+.logo:hover{
+  border: 3.5px solid #621118;
+  border-width: thick;
+}
+
+.navbar-title{
+  font-family: 'Comforter Brush', cursive;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-left: 10px;
+  color: #621118;
+}
+
+.links a{
+  padding-left: 20px;
+  text-decoration: none;
+  color: #621118;
+}
+
+.links a:hover{
+  color:#508548;
+}
+
+/* CONTENT */
+.introduction{
+  background-color: #F3E8C9;
+}
+
+.menu-head{
+  background-color: #F3E8C9;
+  font-size: 170px;
+  font-family: 'Comforter Brush', cursive;
+  width:70%;
+  line-height:1.5;
+  color: #508548;
+  text-align: center;
+  padding: 150px 100px 300px 100px;
+  position: relative;
+  left: 250px;
+
+}
+
+/* CAROUSEL */
+
+.carousel-inner{
+  background-color:  #A3B6A0;
+  margin-top: -100px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+
+}
+
+.r-1{
+  position: relative;
+  left: 150px;
+  border: 10px solid #F3E8C9;
+
+}
+
+.r-2{
+  position: relative;
+  left: 150px;
+  border: 10px solid #F3E8C9;
+
+}
+
+.r-3{
+  position: relative;
+  left: 150px;
+  border: 10px solid #F3E8C9;
+
+}
+
+.r-4{
+  position: relative;
+  left: 150px;
+  border: 10px solid #F3E8C9;
+
+}
+
+
+/* FOOTER */
+
+.contact-text{
+  background-color: #F3E8C9;
+  padding-top: 170px;
+
+}
+
+.contact{
+  font-size: 170px;
+  font-family: 'Comforter Brush', cursive;
+  text-align: center;
+  width: 50%;
+  position: relative;
+  left: 450px;
+}
+
+.contact-logo{
+  background-color: #F3E8C9;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+
+}
+
+.c-logo{
+  border:1px solid #F3E8C9;
+  border-radius: 150px;
+}
+
+.c-logo:hover{
+  border:2px solid #621118;
+  border-radius: 150px;
+  border-width: thick;
+}
+
+/* FOOTER */
+
+.footer{
+  background-color: #E9AC89;
+}
+
+.footer-h{
+  text-align: center;
+  font-family:'Montserrat', sans-serif;
+  color: white;
+  font-size: 23px;
+  padding: 50px ;
+
+
+}
